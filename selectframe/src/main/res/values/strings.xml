@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SelectFrame</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_conversation">会话</string>
+    <string name="main_group">群组</string>
+    <string name="main_chatroom">聊天室</string>
+    <string name="main_customer">客服</string>
+</resources>

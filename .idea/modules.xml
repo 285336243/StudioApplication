@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StudioApplication.iml" filepath="$PROJECT_DIR$/StudioApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectframe/selectframe.iml" filepath="$PROJECT_DIR$/selectframe/selectframe.iml" />
     </modules>
   </component>
 </project>
